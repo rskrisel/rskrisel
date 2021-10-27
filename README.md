@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rskrisel
-- 👀 I’m interested in using Python and to work with text data
-- 🌱 I’m currently learning Python (Pandas, Sentiment Analysis, Topic Modelling, tf-idf)
+- 👀 I’m interested in using Python to work with text data
+- 🌱 I’m currently working on my disseration
 - 💞️ I’m looking to collaborate on Python text analysis projects
-- 📫 How to reach me at 
+- 📫 How to reach me at rkrisel at gradcenter.cuny.edu
 
 <!---
 rskrisel/rskrisel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
