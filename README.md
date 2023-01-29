@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rskrisel
-- 👀 I’m interested in using Python & R to work with text data
-- 🌱 I’m currently working on my dissertation
-- 💞️ I’m looking to collaborate on Python and R text analysis projects
+- 👀 I am a political scientist and communications professional who uses programming languages (R & Python) to study social questions.  
+- 🌱 I’m currently finishing my dissertation, focused on subcultures, taboos, and public policy
+- 🤓 I teach text analysis in Python at Columbia Univeristy SIPA and the CUNY Graduate Center
 - 📫 How to reach me at rkrisel at gradcenter.cuny.edu
 
 <!---
