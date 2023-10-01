@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rebecca!
 - 🧐 I am a political scientist and communications professional who uses programming languages (R & Python) to study social questions  
-- 🎓 I’m currently finishing my dissertation, focused on subcultures, taboos, and public policy
+- 🎓 I’m currently finishing my dissertation, focused on online political discourse related to subcultures, taboos, and public policy
 - 🤓 I teach text analysis in Python at Columbia University SIPA and the CUNY Graduate Center
 - 📬 For more information about my work and how to contact me, visit rebeccakrisel.com
 
