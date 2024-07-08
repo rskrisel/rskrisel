@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rebecca!
-- 🧐 I am a political scientist and communications professional who uses programming languages (R & Python) to study social questions  
-- 🎓 I’m currently finishing my dissertation, focused on online political discourse related to subcultures, taboos, and public policy
-- 🤓 I teach text analysis in Python at Columbia University SIPA and the CUNY Graduate Center
+- 🧐 I am a data scientist (Python, SQL, Excel), strategic communications professional, and educator.
+- 🎓 I have a PhD in political science from the CUNY graduate.
+- 🤓 I teach text analysis in Python at Columbia University SIPA.
 - 📬 For more information about my work and how to contact me, visit rebeccakrisel.com
 
 <!---
