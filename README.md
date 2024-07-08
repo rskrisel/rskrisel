@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rebecca!
 - 🧐 I am a data scientist (Python, SQL, Excel), strategic communications professional, and educator.
-- 🎓 I have a PhD in political science from the CUNY graduate.
+- 🎓 I have a PhD in political science from the CUNY Graduate Center.
 - 🤓 I teach text analysis in Python at Columbia University SIPA.
 - 📬 For more information about my work and how to contact me, visit rebeccakrisel.com
 
